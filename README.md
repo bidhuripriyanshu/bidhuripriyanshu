@@ -92,7 +92,7 @@
   <!-- System Design (no official icon → architecture style) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="32" height="32" style="margin:4px">
 </p>
-### - What i do
+#- What i do
 
 <br />
 
