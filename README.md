@@ -16,7 +16,7 @@
 <p align="center">
    <a href="https://twitter.com/priyanshu351"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/priyanshu351?style=for-the-badge&color=09f&labelColor=black&logo=twitter"></a>
    <br>
-   <a href="https://visitor-badge.glitch.me/badge?page_id=bidhuripriyanshu.bidhuripriyanshu"><img alt="visitor badge" src="https://visitor-badge.glitch.me/badge?page_id=bidhuripriyanshu.bidhuripriyanshu"></a>
+   <a href="https://portfolio-priyanshu-gamma.vercel.app"><img alt="Portfolio" src="https://visitor-badge.glitch.me/badge?page_id=bidhuripriyanshu.bidhuripriyanshu"></a>
 </p>
  
  <h5 align="center">
