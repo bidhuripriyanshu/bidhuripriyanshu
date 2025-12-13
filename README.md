@@ -31,7 +31,7 @@
 
  - 🔭 Currently working on NextJs projects
  
- - 🌱 Currently learning DevOps Stack
+ - 🌱 Currently learning DevOps 
    
  - 💻 Interested in backend development & APIs
 
