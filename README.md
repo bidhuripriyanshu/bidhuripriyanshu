@@ -2,6 +2,32 @@
    <h1>Hi there, I'm <a href="https://github.com/bidhuripriyanshu">Priyanshu Bidhuri</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+## 🚀 Featured Projects  
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Career Coach  
+AI-powered career guidance platform with resume analysis and personalized learning paths.  
+
+**Tech:** Next.js, TypeScript, MongoDB, OpenAI  
+[🔗 Live](#) | [📂 GitHub](#)
+
+</td>
+
+<td width="50%">
+
+### 🧠 Nyasathi AI  
+Smart AI assistant with real-time API integrations and context-aware responses.  
+
+**Tech:** MERN, PostgreSQL, Prisma, Docker  
+[🔗 Live](#) | [📂 GitHub](#)
+
+</td>
+</tr>
+</table>
+
 <p align='center'>
    <a href="https://www.linkedin.com/in/priyanshu-bidhuri-0757a1299/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
    <a href="https://twitter.com/priyanshu351"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
