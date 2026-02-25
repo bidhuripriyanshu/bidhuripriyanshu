@@ -21,7 +21,7 @@ AI-powered career guidance platform that provides personalized roadmaps, resume 
 <td width="33%">
 
 ### 🧠 Nyasathi AI  
-NyaySaathi is an intelligent web application that makes complex legal documents accessible to everyone. Using a hybrid AI approach with local processing (Ollama) and cloud enhancement (Google AI), it provides contract summarization, risk analysis, clause simplification, and multilingual translation. 
+NyaySaathi is an intelligent web application that makes complex legal documents accessible to everyone.
 
 **Tech:** MERN, ML, Ollam ,OpenAI API  
 [🔗 Live](https://nyaysathi-tawny.vercel.app/) | [📂 GitHub](https://github.com/bidhuripriyanshu/Nyaysathi)
@@ -32,6 +32,7 @@ NyaySaathi is an intelligent web application that makes complex legal documents 
 
 ### 🌾 FarmStack  
 CropMate is a comprehensive agricultural project aimed at revolutionizing farming practices by leveraging technology and data-driven insights.
+
 **Tech:** MERN Stack, ML, REST APIs, Authentication,  
 [🔗 Live](https://farm-stack-ai.vercel.app) | [📂 GitHub](https://github.com/bidhuripriyanshu/FarmStackAI)
 
