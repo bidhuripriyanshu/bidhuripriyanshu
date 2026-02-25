@@ -2,31 +2,44 @@
    <h1>Hi there, I'm <a href="https://github.com/bidhuripriyanshu">Priyanshu Bidhuri</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+<br />
+
 ## 🚀 Featured Projects  
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🤖 AI Career Coach  
-AI-powered career guidance platform with resume analysis and personalized learning paths.  
+AI-powered career guidance platform that provides personalized roadmaps, resume analysis, and interview preparation using AI.  
 
-**Tech:** Next.js, TypeScript, MongoDB, OpenAI  
-[🔗 Live](#) | [📂 GitHub](#)
+**Tech:** Next.js, javaScript, Node.js, PostgreSQL, Prisma , OpenAI API  
+[🔗 Live](https://carrer-coach-ai.vercel.app/) | [📂 GitHub](https://github.com/bidhuripriyanshu/carrer-coach-ai)
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
 ### 🧠 Nyasathi AI  
-Smart AI assistant with real-time API integrations and context-aware responses.  
+NyaySaathi is an intelligent web application that makes complex legal documents accessible to everyone. Using a hybrid AI approach with local processing (Ollama) and cloud enhancement (Google AI), it provides contract summarization, risk analysis, clause simplification, and multilingual translation. 
 
-**Tech:** MERN, PostgreSQL, Prisma, Docker  
-[🔗 Live](#) | [📂 GitHub](#)
+**Tech:** MERN, ML, Ollam ,OpenAI API  
+[🔗 Live](https://nyaysathi-tawny.vercel.app/) | [📂 GitHub](https://github.com/bidhuripriyanshu/Nyaysathi)
+
+</td>
+
+<td width="33%">
+
+### 🌾 FarmStack  
+CropMate is a comprehensive agricultural project aimed at revolutionizing farming practices by leveraging technology and data-driven insights.
+**Tech:** MERN Stack, ML, REST APIs, Authentication,  
+[🔗 Live](https://farm-stack-ai.vercel.app) | [📂 GitHub](https://github.com/bidhuripriyanshu/FarmStackAI)
 
 </td>
 </tr>
 </table>
+
+<br />
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/priyanshu-bidhuri-0757a1299/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
