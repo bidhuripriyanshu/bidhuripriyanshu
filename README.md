@@ -20,7 +20,7 @@ AI-powered career guidance platform that provides personalized roadmaps, resume 
 
 <td width="33%">
 
-### 🧠 Nyasathi AI  
+### 🧠 NyaySaathi AI  
 NyaySaathi is an intelligent web application that makes complex legal documents accessible to everyone.
 
 **Tech:** MERN, ML, Ollam ,OpenAI API  
