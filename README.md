@@ -29,70 +29,20 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Connect With Me
 
-<table>
-<tr>
-<td width="33%">
-
-### 🤖 AI Career Coach
-AI-powered career guidance platform that provides personalized roadmaps, resume analysis, and interview preparation using AI.
-
-**Tech:** Next.js, JavaScript, Node.js, PostgreSQL, Prisma, OpenAI API
-
-[🔗 Live](https://carrer-coach-ai.vercel.app/) | [📂 GitHub](https://github.com/bidhuripriyanshu/carrer-coach-ai)
-
-</td>
-<td width="33%">
-
-### 🧠 NyaySaathi AI
-An intelligent web application that makes complex legal documents accessible to everyone.
-
-**Tech:** MERN, ML, Ollama, OpenAI API
-
-[🔗 Live](https://nyaysathi-tawny.vercel.app/) | [📂 GitHub](https://github.com/bidhuripriyanshu/Nyaysathi)
-
-</td>
-<td width="33%">
-
-### 🌾 FarmStack
-A comprehensive agricultural project revolutionizing farming practices using technology and data-driven insights.
-
-**Tech:** MERN Stack, ML, REST APIs, Authentication
-
-[🔗 Live](https://farm-stack-ai.vercel.app) | [📂 GitHub](https://github.com/bidhuripriyanshu/FarmStackAI)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://twitter.com/priyanshu351"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" /></a>
+  <a href="https://www.linkedin.com/in/priyanshu-bidhuri-0757a1299/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" /></a>
+  <a href="mailto:bidhuripriyanshu351@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" /></a>
+</p>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" width="36" height="36" style="margin:6px" title="HTML5">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" style="margin:6px" title="CSS3">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" width="36" height="36" style="margin:6px" title="JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" style="margin:6px" title="TypeScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" style="margin:6px" title="Java">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" width="36" height="36" style="margin:6px" title="Python">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" width="36" height="36" style="margin:6px" title="React">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" style="margin:6px" title="Next.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" style="margin:6px" title="Node.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" style="margin:6px" title="Express.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" style="margin:6px" title="MongoDB">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" style="margin:6px" title="PostgreSQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" style="margin:6px" title="MySQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="36" height="36" style="margin:6px" title="Prisma">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="36" height="36" style="margin:6px" title="AWS">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" style="margin:6px" title="Docker">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" style="margin:6px" title="Git">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="36" height="36" style="margin:6px" title="Rust">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" height="36" style="margin:6px" title="Go">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" style="margin:6px" title="TensorFlow">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="36" height="36" style="margin:6px" title="PyTorch">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36" style="margin:6px" title="Nginx">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,prisma,aws,docker,git,python,java,tensorflow,pytorch,nginx&perline=10" />
 </p>
 
 ---
@@ -135,6 +85,16 @@ A comprehensive agricultural project revolutionizing farming practices using tec
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bidhuripriyanshu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## ✨ Developer Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
